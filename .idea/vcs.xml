@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/MarchMadness/sgd-end-to-end-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pundit/js-sgd-quiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pundit/js-sgd-quiz/node_modules/@sgd/reference-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pundit/mock-content-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pundit/quiz-bdd-scenarios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pundit/quiz-database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pundit/quiz-rest-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pundit/scss-sgd-reference-theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pundit/sgd-headless-sportsbook" vcs="Git" />
+  </component>
+</project>
